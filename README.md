@@ -13,7 +13,7 @@
 
 
 
-* [Разведочный анализ данных] (https://github.com/tesemnikov-av/Alice-NLP-project/blob/master/AliceFinal.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10O4uK1nd18AqqAjlogUJZPz2ISusoNof?usp=sharing)
+[Разведочный анализ данных] (https://github.com/tesemnikov-av/Alice-NLP-project/blob/master/AliceFinal.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10O4uK1nd18AqqAjlogUJZPz2ISusoNof?usp=sharing)
 * Задачи классификации
 * Задачи кластеризации
 * Задачи регрессии
